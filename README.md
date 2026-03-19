@@ -52,8 +52,7 @@ Start the development server:
 ```bash
 npm run dev
 ```
-The app will be available at [http://localhost:5173/](http://localhost:5173/).
-
+The app will be available at [[http://localhost:5173/](https://co2-app-kappa.vercel.app/)]
 ## 📁 Project Structure
 - `src/App.jsx`: Main application logic, including the calculation engine and UI components.
 - `src/index.css`: Global design tokens and foundational resets.
